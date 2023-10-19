@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+</head>
+
+	<body>
+	<!-- a comment so that you don't forget how to make comments -->
+	
+		<h1> name of the page, yo </h1>
+		
+		<img title="adachi?" src="https://i.postimg.cc/t4Qw8rdW/Tumblr-l-1011453065667074.jpg" alt="a picture of adachi (i think) persona 4, but instead of adachi, it is a picture of a mountain and clouds that gives the vague impression of someone who looks very much like adachi"> 
+
+		<br>
+		
+		<p>now i will list things in order of importance, from most important to least important:</p>
+		
+		<ul>
+			<li>going to seattle</li>
+			<li>seattle</li>
+			<li>coffee</li>
+			<li>lupin related media</li>
+			<li>free bones</li>
+			<li>medicaid</li>
+			<li>breakfast</li>
+			<li>a bird</li>
+		</ul>
+			
+		<p>		of course, that was only a few of the things i could have listed. if i wanted to list any more, i would have to make some very difficult decisions, and perhaps even contemplate my life choices, (bad thing.)
+		<p>now i will be making a 
+			<a href="">hyperlink</a>
+				, as i decided halfway through the w3schools html tutorial that i would do the mozilla html tutorial instead.</p>
+		
+
+
+
+
+
+
+	</body>
+	
+</html>
